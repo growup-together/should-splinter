@@ -1,2 +1,2 @@
-import .matchers
+from . import matchers
 
