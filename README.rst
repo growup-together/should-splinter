@@ -90,5 +90,5 @@ how to install
 
 There's no Pypi packages at the moment, but you can install directly from Github::
 
-    pip install -U https://github.com/rodrigomanhaes/should-splinter/tarball/master
+    pip install -U https://github.com/growup-together/should-splinter/tarball/master#egg=should_splinter
 
